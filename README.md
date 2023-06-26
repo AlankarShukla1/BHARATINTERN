@@ -1,5 +1,4 @@
 # BHARATINTERN
-2 of the internship tasks
-these are the 2 tasks that were allotted to me. 
-one of which is a simple temprature converter
-and second one is homepage of netflix.
+2 of the internship tasks...
+These are the 2 tasks that were allotted to me:
+a) simple temprature converter b) second one is homepage of netflix.
